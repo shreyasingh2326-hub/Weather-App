@@ -28,13 +28,5 @@ A simple weather app built using HTML, CSS and JavaScript.
 2. Add your API key
 3. Open index.html
 
-## Screenshots
 
-### Evening Weather
-![Evening Weather](screenshots/ss1.png)
 
-### Night Weather
-![Night Weather](screenshots/ss3.png)
-
-### Alert
-![Alert](screenshots/ss2.png)
